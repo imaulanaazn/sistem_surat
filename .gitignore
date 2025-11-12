@@ -14,7 +14,8 @@ writable/logs/*
 !writable/logs/.gitkeep
 writable/session/*
 !writable/session/.gitkeep
-writable/uploads/*
+writable/uploads/surat/*
+writable/uploads/lampiran/*
 !writable/uploads/.gitkeep
 
 # 4. Vendor & composer
