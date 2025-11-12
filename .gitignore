@@ -6,11 +6,6 @@
 .env
 !.env.example
 
-# 2. Folder writable (cache, logs, session, uploads)
-writable/
-writable/*
-!writable/.gitkeep
-
 # 3. Cache & logs (otomatis dibuat oleh CI4)
 writable/cache/*
 !writable/cache/.gitkeep
