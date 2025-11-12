@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'localhost',
-        'username'     => '',
-        'password'     => '',
-        'database'     => '',
+        'hostname'     => 'mysql.zeabur.internal',
+        'username'     => 'root',
+        'password'     => '85kolu3XCG1s0Fx7Q296VPZqaEjWhIz4',
+        'database'     => 'surat_desa',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
