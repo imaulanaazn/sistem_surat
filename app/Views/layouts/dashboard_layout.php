@@ -36,7 +36,7 @@
     <link href="<?= base_url('assets/css/argon-dashboard-tailwind.css?v=1.0.1') ?>" rel="stylesheet" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 
-    <script src="https://cdn.tiny.cloud/1/0uel2jlkeweadid8norwu9i1qnx5bii6f3141qw9gtfrpjdn/tinymce/8/tinymce.min.js" referrerpolicy="origin" crossorigin="anonymous"></script>
+    <script src="https://cdn.tiny.cloud/1/m5zhallne3hpb2i58khm58rw80en2g9tgj1ami9wy9e99otb/tinymce/8/tinymce.min.js" referrerpolicy="origin" crossorigin="anonymous"></script>
 </head>
 
 <body class="m-0 font-sans text-base antialiased font-normal dark:bg-slate-900 leading-default bg-gray-50 text-slate-500">
