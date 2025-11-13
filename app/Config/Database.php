@@ -21,15 +21,15 @@ class Database extends Config
 
     /**
      * The default database connection.
-     *
+     *mysql://root:zssiRxoDpDjvVvbJRyNImUfzvxmMbYlD@nozomi.proxy.rlwy.net:18931/railway
      * @var array<string, mixed>
      */
     public array $default = [
         'DSN'          => '',
-        'hostname'     => 'mysql.zeabur.internal',
+        'hostname'     => 'nozomi.proxy.rlwy.net',
         'username'     => 'root',
-        'password'     => '85kolu3XCG1s0Fx7Q296VPZqaEjWhIz4',
-        'database'     => 'surat_desa',
+        'password'     => 'zssiRxoDpDjvVvbJRyNImUfzvxmMbYlD',
+        'database'     => 'railway',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
@@ -41,7 +41,7 @@ class Database extends Config
         'compress'     => false,
         'strictOn'     => false,
         'failover'     => [],
-        'port'         => 3306,
+        'port'         => 18931,
         'numberNative' => false,
         'foundRows'    => false,
         'dateFormat'   => [
