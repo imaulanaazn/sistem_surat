@@ -32,7 +32,7 @@ class SysConfigSeeder extends Seeder
             ],
             [
                 'key' => 'site_logo',
-                'value' => 'assets/img/logos/logo_desa.webp',
+                'value' => '/assets/img/logos/logo_desa.webp',
                 'label' => 'Logo Website',
                 'type' => 'file',
                 'group' => 'general',
