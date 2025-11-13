@@ -19,7 +19,7 @@ if (! function_exists('kop_surat')) {
         return '
              <div style="position: relative; width: 100%; border-bottom: 2px solid black; height: 80px; text-align: center;">
                 <!-- Logo kiri -->
-                <img src="https://sistem-surat.zeabur.app' . $logoDesa . '"
+                <img src="https://sistem-surat.zeabur.app/uploads/desa/' . $logoDesa . '"
                     alt=""
                     style="position: absolute; left: 0; top: 0px; width: 70px; height: 70px; object-fit: cover;">
 
